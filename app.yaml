@@ -10,7 +10,7 @@ handlers:
   login: required
 
 env_variables:
-  LANG_TAG: 'it'
+  LANG_TAG: 'en'
   TIMESTAMP_TZ: 'Europe/Rome'
 
 libraries:
