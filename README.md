@@ -55,7 +55,7 @@ In this section you will start your [Google Cloud Shell][9] and clone the
 4. Clone the lab repository in your cloud shell, then `cd` into that dir:
 
   ```shell
-  $ git clone https://github.com/GoogleCloudPlatform/appengine-photoalbum-example.git
+  $ git clone https://github.com/akshaypsaxena/appengine-photoalbum-example.git
   Cloning into 'appengine-photoalbum-example'...
   ...
 
